@@ -1,0 +1,21 @@
+{
+    "students": [
+        {
+            "student_id": "2023001",
+            "name": "张三",
+            "gender": "男",
+            "age": 20,
+            "class_name": "计算机科学与技术1班",
+            "contact": "13800138001"
+        },
+        {
+            "student_id": "2023002",
+            "name": "李四",
+            "gender": "女",
+            "age": 21,
+            "class_name": "计算机科学与技术2班",
+            "contact": "13800138002"
+        }
+    ],
+    "last_updated": "2025-11-13T15:14:14.209691"
+}
